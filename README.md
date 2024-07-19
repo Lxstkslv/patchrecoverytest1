@@ -1,1 +1,1 @@
-go to releases https://github.com/Lxstkslv/patchrecoverytest1/releases
+go to releases https://github.com/oalaov/patchrecoverytest1/releases
